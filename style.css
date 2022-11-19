@@ -127,6 +127,7 @@ h2 {
   user-select: none;
   opacity: 0.6;
   display: block;
+  margin: auto;
 }
 
 /* Position the "next button" to the right */
