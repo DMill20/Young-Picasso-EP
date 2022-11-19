@@ -458,7 +458,7 @@ h2 {
     transition: 0.6s ease;
     border-radius: 0 3px 3px 0;
     user-select: none;
-    width: 75px;
+    width: 100px;
     opacity: 0.6;
   }
   .prev {
