@@ -392,6 +392,7 @@ h2 {
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 0.5rem;
+  opacity: .6;
 }
 
 @keyframes animate {
