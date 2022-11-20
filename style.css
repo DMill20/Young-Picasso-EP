@@ -560,13 +560,8 @@ h2 {
   .box {
     width: 300px;
     height: 400px;
-    background-size: cover;
-    background-position: center;
-    background-repeat: repeat;
-    border-radius: 0.5rem;
   }
   .box span {
-    position: absolute;
     width: 100px;
     height: 100px;
   }
