@@ -546,7 +546,7 @@ h2 {
     align-items: center;
     width: 300px;
     height: 400px;
-    margin-top: 25px;
+    margin-top: 15px;
     background: linear-gradient(rgba(255, 0, 193, 0.7), rgba(255, 0, 193, 0.7)),
     url(images/martin\ luther\ king.png);
   }
@@ -560,10 +560,10 @@ h2 {
     background-position: center;
     background-repeat: repeat;
     border-radius: 0.5rem;
-    margin-bottom: 900px;
+    margin-bottom: 600px;
   }
   .box span {
-    margin-bottom: 300px;
+    margin-bottom: 600px;
   }
   .box span img {
     margin-top: 200px;
