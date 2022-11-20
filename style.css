@@ -406,7 +406,9 @@ h2 {
   color: #fff;
 }
 .box span {
-  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: auto;
   height: 100%;
   width: 100%;
