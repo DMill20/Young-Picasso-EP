@@ -406,7 +406,6 @@ h2 {
   color: #fff;
 }
 .box span {
-  position: absolute;
   margin: auto;
   height: 100%;
   width: 100%;
@@ -564,7 +563,6 @@ h2 {
     background-position: center;
     background-repeat: repeat;
     border-radius: 0.5rem;
-    position: relative;
   }
   .box span {
     width: 100px;
