@@ -182,7 +182,7 @@ h2 {
   display: inline-block;
   transition: background-color 0.6s ease;
   opacity: 0.6;
-  margin-bottom: 10px;
+  margin-bottom: 400px;
 }
 
 .active,
@@ -453,7 +453,7 @@ h2 {
     height: 400px;
   }
 
-  .next{
+  /*.next{
   color: white;
   font-weight: bold;
   font-size: 18px;
@@ -473,6 +473,7 @@ h2 {
   opacity: 0.6;
   width: 225px;
 }
+  */
   .container {
     background: linear-gradient(
         rgba(125, 18, 255, 0.6),
