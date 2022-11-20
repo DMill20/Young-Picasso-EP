@@ -564,6 +564,7 @@ h2 {
     background-position: center;
     background-repeat: repeat;
     border-radius: 0.5rem;
+    display: none;
   }
   .box span {
     margin-bottom: 600px;
