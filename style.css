@@ -554,6 +554,8 @@ h2 {
   .card3{
     background: linear-gradient(rgba(255, 0, 193, 0.7), rgba(255, 0, 193, 0.7)),
     url(images/martin\ luther\ king.png);
+    width: 300px;
+    height: 400px;
   }
   .box {
     width: 300px;
