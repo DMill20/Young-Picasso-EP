@@ -407,7 +407,7 @@ h2 {
 }
 .box span {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   margin: auto;
   height: 100%;
@@ -566,6 +566,9 @@ h2 {
   .box span {
     width: 100px;
     height: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start'
   }
   .box span img {
     width: 100px;
